@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the thesis as below."
+title: "Robot Learning Beyond Earth: Enabling Adaptive Autonomy in Space"
+type: software
+authors:
+  - family-names: Orsula
+    given-names: Andrej
+repository-code: "https://github.com/AndrejOrsula/phd_thesis"
+url: "https://andrejorsula.github.io/phd_thesis/"
+license:
+  - CC-BY-4.0
+  - MIT
+preferred-citation:
+  type: thesis
+  thesis-type: "Doctoral thesis"
+  title: "Robot Learning Beyond Earth: Enabling Adaptive Autonomy in Space"
+  authors:
+    - family-names: Orsula
+      given-names: Andrej
+  institution:
+    name: University of Luxembourg
+    city: Luxembourg
+    country: LU
+  year: 2025
+  url: "https://hdl.handle.net/10993/67015"

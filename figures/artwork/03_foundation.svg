@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="88" viewBox="0 0 144 88">
+  <g fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="1.25"><path d="M12 73.88C18.44 60.67 30.14 60.67 38 67.26"/></g>
+    <g stroke-width="1.5"><path d="M120.54 70.36C122.48 64.73 125.11 66.89 127.46 72.35"/></g>
+    <g stroke-width="2"><path d="M2 78C26.01 66.63 60.39 62.44 92.04 65.44"/><path d="M103.94 66.93C117.95 69.12 131.06 72.82 142 78"/><ellipse cx="98" cy="66.09" rx="6" ry="2.2" transform="rotate(7.12 98 66.09)"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="2"><path d="M61.83 52.86L61.83 46.06"/></g>
+    <g transform="rotate(-3.75 58 64.08) rotate(45.49 61.83 46.06)" stroke-width="2"><rect x="58" y="41.38" width="7.65" height="4.67" rx="0.77"/></g>
+    <g transform="rotate(-3.75 58 64.08) rotate(45.49 61.83 46.06)" stroke="none" fill="#000000"><circle cx="63.19" cy="43.72" r="0.77"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="2"><rect x="45.25" y="52.86" width="25.5" height="7.65" rx="1.53"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="2" fill="#ffffff"><circle cx="50.77" cy="60.51" r="3.57"/><circle cx="65.22" cy="60.51" r="3.57"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="1"><circle cx="50.77" cy="60.51" r="1.19"/><circle cx="65.22" cy="60.51" r="1.19"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="2"><path d="M68.2 52.86L73.3 40.96L83.5 47.59"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="1.5"><path d="M83.5 47.59L83.5 51.41"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="1.5"><rect x="78.89" y="51.41" width="9.23" height="3.65" rx="1.36"/><path d="M78.89 55.07L78.89 57.66L79.31 57.66L79.31 59.11"/><path d="M88.11 55.07L88.11 57.66L87.69 57.66L87.69 59.11"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="1.25" fill="#ffffff"><circle cx="83.5" cy="47.59" r="1.44"/></g>
+    <g transform="rotate(-3.75 58 64.08)" stroke-width="1.25" fill="#ffffff"><circle cx="68.2" cy="52.86" r="1.44"/><circle cx="73.3" cy="40.96" r="1.44"/></g>
+    <g transform="rotate(3.01 83.32 64.8)" stroke-width="1.27"><path d="M81.1 64.8L80.92 63.32L82.21 61.47L84.06 61.1L85.73 62.58L85.54 64.8L84.21 64.45L83.18 64.69L82.36 64.37Z"/></g>
+    <g transform="rotate(3.01 83.32 64.8)" stroke-width="0.85"><path d="M82.21 61.47L83.14 63.32L85.73 62.58"/><path d="M83.14 63.32L82.7 64.5"/></g>
+    <g stroke="none" fill="#000000"><path d="M112 16.8Q112.64 19.36 115.2 20Q112.64 20.64 112 23.2Q111.36 20.64 108.8 20Q111.36 19.36 112 16.8Z"/><circle cx="30" cy="26" r="1.2"/><circle cx="76" cy="10" r="0.79"/></g>
+  </g>
+</svg>

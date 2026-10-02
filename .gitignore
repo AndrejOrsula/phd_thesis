@@ -1,0 +1,7 @@
+*.pdf
+/.cache/
+/.fonts/
+/dist/
+__pycache__/
+/build/
+/.*-build.*/

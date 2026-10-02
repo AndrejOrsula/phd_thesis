@@ -1,0 +1,30 @@
+Robot Learning Beyond Earth: Enabling Adaptive Autonomy in Space
+Copyright (c) 2025-2026 Andrej Orsula
+
+This repository contains material under two licenses.
+
+Text and figures: CC BY 4.0 (LICENSE-CC-BY)
+  content/
+  figures/, except the Python files listed below
+  bibliography.bib
+
+Source code: MIT (LICENSE-MIT)
+  thesis.typ
+  utils/
+  snippets/
+  index.html
+  .github/
+  .gitignore, .gitmodules, .pre-commit-config.yaml
+
+All other files, such as the documentation: CC BY 4.0
+
+Exceptions
+  The third-party images listed in FIGURES.md, and the logos it notes as
+  trademarks, belong to their respective owners and are covered by neither
+  license.
+
+  Parts of the thesis adapt the author's articles listed in its Publications
+  section. Where a publisher holds the copyright of such an article, the
+  publisher's terms also apply to the material adapted from it.
+
+  The template/ directory is a separate repository with its own license.
