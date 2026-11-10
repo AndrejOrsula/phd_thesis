@@ -48,10 +48,10 @@ It writes four files next to `thesis.typ`:
 
 | File | Content |
 | ------------------------------------ | ---------------------------------------------- |
-| `thesis_AndrejOrsula.pdf` | Digital edition, images at 300 dpi (max 25 MB) |
-| `thesis_AndrejOrsula_print.pdf` | Print edition, images at 300 dpi (max 30 MB) |
-| `thesis_AndrejOrsula_full.pdf` | Digital edition at full resolution |
-| `thesis_AndrejOrsula_print_full.pdf` | Print edition at full resolution |
+| `thesis_AndrejOrsula.pdf` | Digital edition, images at 300 dpi (17 MB) |
+| `thesis_AndrejOrsula_print.pdf` | Print edition, images at 300 dpi (21 MB) |
+| `thesis_AndrejOrsula_full.pdf` | Digital edition at full resolution (126 MB) |
+| `thesis_AndrejOrsula_print_full.pdf` | Print edition at full resolution (126 MB) |
 
 The editions differ only in layout:
 
